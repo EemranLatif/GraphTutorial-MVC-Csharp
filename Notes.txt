@@ -1,0 +1,15 @@
+﻿SSL URL : https://localhost:44310/
+
+Application Client ID : c0a89c4c-8637-40f0-b0a0-7feb2edbfb1b
+
+
+Object ID : 02de9c81-5a8f-4c76-b935-1a4feffc7c62
+
+
+Tenant ID : d8396bcb-b57c-4c92-bf47-4f3040f2a79e
+
+
+Client Secret : 
+
+Secret ID : bb6392b2-cb34-465b-a3d3-f1581fbe7409
+Value : wBX8Q~yq1zqm1ZUrGfwA~9j0EtB-rTxoaiAg1dww
